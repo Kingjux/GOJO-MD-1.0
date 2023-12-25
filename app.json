@@ -1,7 +1,7 @@
 {
   "name": "GOJO-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.imgur.com/tmmLiCV.jpg",
+  "logo": "https://i.imgur.com/nkPESSY.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
@@ -76,7 +76,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://toge3260:QO4ozHWxuoQeHsry@cluster0.4bedvpu.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀;𝐺𝛩𝐽𝛩 𝛭𝐷",
      "required": false 
   },
   "heroku": {
