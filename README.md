@@ -16,10 +16,11 @@
 ***Get [✨SCAN_QR_BOT✨](https://replit.com/@Smith2023/DENZO-UCHIWA-3?v=1) Scanner le code QR pour avoir la session. `Whatapp>Appareil connecter`***
 
 
-***Clicquer sur  [FORK](https://github.com/Denzo-MD/Denzo-MD/fork)***
+***Clicquer sur  [FORK](https://github.com/toge123456/GOJO-MD/fork)***
 
 
-𝐋𝐞 𝐁𝐨𝐭 𝑮𝑶𝑱𝑶-𝑴𝑫 𝐄𝐬𝐭 𝐔𝐧 𝐁𝐨𝐭 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞 𝐃é𝐯𝐞𝐥𝐨𝐩𝐩é 𝐏𝐚𝐫 𝐋𝐚 𝐓𝐞𝐚𝐦 𝐃𝐞𝐧𝐳𝐨 𝐔𝐜𝐡𝐢𝐰𝐚 𝐂𝐞 𝐁𝐨𝐭 𝐄𝐬𝐭 𝐂𝐨𝐧𝐧𝐮 𝐏𝐨𝐮𝐫 𝐄𝐧𝐫𝐢𝐜𝐡𝐢𝐫 𝐕𝐨𝐬 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩.
+𝐋𝐞 𝐁𝐨𝐭 𝑮𝑶𝑱𝑶-𝑴𝑫 𝐄𝐬𝐭 𝐔𝐧 𝐁𝐨𝐭 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞 𝐃é𝐯𝐞𝐥𝐨𝐩𝐩é 𝐏𝐚𝐫 𝐋𝐚 𝑇𝛯𝛥𝛭 𝐺𝛩𝐽𝛩 𝛭𝐷
+𝐂𝐞 𝐁𝐨𝐭 𝐄𝐬𝐭 𝐂𝐨𝐧𝐧𝐮 𝐏𝐨𝐮𝐫 𝐄𝐧𝐫𝐢𝐜𝐡𝐢𝐫 𝐕𝐨𝐬 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩.
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeurs.
 
 <div align="center">
@@ -52,7 +53,7 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 
 
-## ``` ⚡TEAM DENZO UCHIWA⚡ :```
+## ```⚡𝑇𝛯𝛥𝛭 𝐺𝛩𝐽𝛩 𝛭𝐷⚡ :```
 
  
 
@@ -64,6 +65,5 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 | [Toge123456](https://github.com/toge123456) |
 
-|[Denzo uchiwa](https://github.com/Denzo-MD)  |
 
-| ⭐DENZO X TOGE 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
+| ⭐𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
