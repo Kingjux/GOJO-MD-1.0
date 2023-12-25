@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Salut+Je+suis+𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻;MULTI+DEVICE+WHATSAPP+BOT; CRÉÉ+PAR+✨DENZO Uchiwa✨;PUBLIC+BOT; DÉVELOPPÉ+PAR+LA+TEAM+DENZO." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Salut+Je+suis+𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻;MULTI+DEVICE+WHATSAPP+BOT; CRÉÉ+PAR+✨DENZO Uchiwa et TOGE INUMAKI✨;PUBLIC+BOT; DÉVELOPPÉ+PAR+LA+TEAM+DENZO." alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
+  <a href="https://chat.whatsapp.com/Lk3Hn9QqbGJKYSlZMVpNp5">
     <img alt=Support height="550" src="https://i.imgur.com/nkroZCU.jpeg"> 
     </p>
 <h1 align="center"> 𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻
@@ -62,9 +62,8 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 |----|----|----|----|
 
-| [Denzo uchiwa](https://github.com/Denzo-MD) |
+| [Toge123456](https://github.com/toge123456) |
 
-| ⭐DENZO 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
+|[Denzo uchiwa](https://github.com/Denzo-MD)  |
 
-
-  
+| ⭐DENZO X TOGE 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
