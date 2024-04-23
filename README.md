@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Salut+Je+suis+𝑮𝑶𝑱𝑶-𝑴𝑫 𝑩𝑶𝑻;MULTI+DEVICE+WHATSAPP+BOT; CRÉÉ+PAR+✨𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 𝔼𝕋 𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂✨;PUBLIC+BOT; DÉVELOPPÉ+PAR+LA+TEAM+𝑮𝑶𝑱𝑶." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=𝑮𝑶𝑱𝑶-𝑴𝑫 𝑩𝑶𝑻;𝕄𝕌𝕃𝕋𝕀+𝔻𝔼𝕍𝕀ℂ𝔼+𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ+𝔹𝕆𝕋; ℂℝ𝔼𝔼ℝ+ℙ𝔸ℝ+✨𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 𝔼𝕋 𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂✨;ℙ𝕌𝔹𝕃𝕀ℂ+𝔹𝕆𝕋; 𝔻𝔼𝕍𝔼𝕃𝕆ℙℙ𝔼ℝ+ℙ𝔸ℝ+𝕃𝔸+𝕋𝔼𝔸𝕄+𝑮𝑶𝑱𝑶." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo">
@@ -13,7 +13,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
   
-***Get [✨SCAN_QR_BOT✨](https://replit.com/@Smith2023/DENZO-UCHIWA-3?v=1) Scanner le code QR pour avoir la session. `Whatapp>Appareil connecter`***
+***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `Whatapp>Appareil connecter`***
 
 
 ***Clicquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
@@ -63,10 +63,8 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 |----|----|----|----|
 
-| [𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂](https://github.com/GEEKMD099) 
-  [𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀]
- (https://github/toge01234)
-|
+| [𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂](https://github.com/GEEKMD099) |
 
+| [𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀] (https://github.com/toge01234) |
 
 | ⭐𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 𝔼𝕋 𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
