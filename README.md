@@ -13,7 +13,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
   
-***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `Whatapp>Appareil connecter`***
+***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `WhatsApp > Appareil connecter`***
 
 
 ***Cliquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
@@ -24,7 +24,7 @@
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Denzo+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;TEAM 𝑮𝑶𝑱𝑶-𝑴𝑫." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;TEAM 𝑮𝑶𝑱𝑶-𝑴𝑫." alt="Typing SVG" /></a>
   </p>
 
 <br>
