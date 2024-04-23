@@ -65,6 +65,6 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé des développeur
 
 | [𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂](https://github.com/GEEKMD099) |
 
-| [𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀] (https://github.com/toge01234) |
+| [𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀](https://github.com/toge01234) |
 
 | ⭐𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 𝔼𝕋 𝕄ℝ_𝕃𝔼𝔾𝔼𝔼𝕂 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
