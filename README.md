@@ -16,7 +16,7 @@
 ***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `Whatapp>Appareil connecter`***
 
 
-***Clicquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
+***Cliquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
 
 
 𝐋𝐞 𝐁𝐨𝐭 𝑮𝑶𝑱𝑶-𝑴𝑫 𝐄𝐬𝐭 𝐔𝐧 𝐁𝐨𝐭 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞 𝐃é𝐯𝐞𝐥𝐨𝐩𝐩é 𝐏𝐚𝐫 𝐋𝐚 𝑇𝛯𝛥𝛭 𝐺𝛩𝐽𝛩 𝛭𝐷
