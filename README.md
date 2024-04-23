@@ -29,7 +29,7 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeur
 
 <br>
 
-<h4 align="center"> Deploy on Repl.it
+<h4 align="center"> Deploy on Replit
 </h4>
 
 <p align="center" >
